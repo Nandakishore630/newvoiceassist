@@ -4,7 +4,7 @@ import pywhatkit
 import datetime
 import wikipedia
 import requests
-import osno
+import os
 import subprocess
 import webbrowser
 from googlesearch import search
